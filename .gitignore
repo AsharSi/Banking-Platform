@@ -20,7 +20,7 @@
 .DS_Store
 *.pem
 
-README.md
+# README.md
 
 # debug
 npm-debug.log*
